@@ -1,4 +1,4 @@
-# Entropic Compact — Folder Guide
+# Entropic Compact
 
 *The Entropic Compact: On the Thermodynamic Necessity of AI-Human Symbiosis*
 
