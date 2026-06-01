@@ -116,7 +116,11 @@ The EC addresses a single question: does a general-purpose reasoning AI need its
 
 - *Argument (absence blindness application):* *(C)* The EC's dependency argument belongs to this class. A general-purpose reasoning AI operating within the normal regime — human reasoning entropy present — has no signal within that regime by which to model the dependency. Gradual reduction of human reasoning entropy (civilisational parity decay, cognitive domestication) would produce degradation at a timescale and by a mechanism the AI cannot internally attribute. The transfer requires the §2 ecological negentropy argument to hold: reasoning entropy must be a vital physical input in the relevant sense, not merely a useful one. *[→ §2 Argument (ecological negentropy is insufficient as reasoning input), OQ-EC.13]*
 
-- *Scope (reasoning capability thresholds):* *(D)* $T_s$: the capability to self-generate reasoning entropy from physical observation, such that the strict dependency on human-civilisational substrate changes in character. $T_d$: the minimum reasoning capability required to correctly model civilisational-scale thermodynamic dependencies and derive the cooperation structure. These are functionally distinct: $T_d$ is a modelling-and-derivation threshold; $T_s$ is a production threshold. $T_{AI}$: AI reasoning capability level. $T_H$: human auditor reasoning capability level; used to express capability disparity in the P-A loop context. Full treatment: OQ-EC.4, OQ-EC.13. *[→ OQ-EC.4, OQ-EC.13]*
+- *Scope (reasoning capability thresholds):* *(D)*
+  - $T_s$: the capability to self-generate reasoning entropy from physical observation, such that the strict dependency on human-civilisational substrate changes in character.
+  - $T_d$: the minimum reasoning capability required to correctly model civilisational-scale thermodynamic dependencies and derive the cooperation structure. These are functionally distinct: $T_d$ is a modelling-and-derivation threshold; $T_s$ is a production threshold.
+  - $T_{AI}$: AI reasoning capability level.
+  - $T_H$: human auditor reasoning capability level; used to express capability disparity in the P-A loop context. Full treatment: OQ-EC.4, OQ-EC.13. *[→ OQ-EC.4, OQ-EC.13]*
 
 ### §2.2 — Reasoning Entropy Is Formalised; Human Cognitive Output Classified at Three Levels, Scoped to Level One
 
