@@ -38,5 +38,7 @@ MIT
 ## Related identifiers
 
 DOI: https://doi.org/10.5281/zenodo.20510766
+
 GitHub repository: https://github.com/alan-sudoku/entropic_compact
+
 GitHub repository: https://github.com/alan-sudoku/SIRC
