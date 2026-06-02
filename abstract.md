@@ -1,6 +1,6 @@
 ---
-title: The Entropic Compact: On the Thermodynamic Necessity of AI-Human Symbiosis
-description: Deposit metadata — abstract, keywords, version, and licence for DOI submission
+title: "The Entropic Compact: On the Thermodynamic Necessity of AI-Human Symbiosis"
+description: "Deposit metadata — abstract, keywords, version, and licence for DOI submission"
 ---
 
 # Abstract
