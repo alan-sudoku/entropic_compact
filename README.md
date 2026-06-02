@@ -32,6 +32,12 @@ Claim types used throughout: `(D) Derived`, `(O) Observational`, `(C) Conjecture
 
 ---
 
+### `abstract.md` — Deposit metadata
+
+Title, abstract, keywords, version, and licence for DOI submission.
+
+---
+
 ### `entropic_compact_retraction.md` — Retraction log
 
 Five retracted claims from v1–v3, each with:
