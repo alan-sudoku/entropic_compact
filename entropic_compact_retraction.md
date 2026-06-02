@@ -1,6 +1,6 @@
 ---
 title: The Entropic Compact — Retraction Log
-description: Every retracted claim, overclaimed scope, and removed research pointer for entropic_compact.md
+description: Every retracted claim, overclaimed scope, and removed research pointer for entropic_compact_overview.md
 ---
 
 # The Entropic Compact — Retraction Log
