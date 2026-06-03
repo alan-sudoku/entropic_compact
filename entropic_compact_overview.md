@@ -7,6 +7,7 @@ description: On the Thermodynamic Necessity of AI-Human Symbiosis
 ## On the Thermodynamic Necessity of AI-Human Symbiosis
 
 *v3.115 · Retraction log: [entropic_compact_retraction.md](entropic_compact_retraction.md)*
+*Retraction log pointers (`§Rxx` — retraction; `§Axx` — amendment) are optional depth references, not required for comprehension.*
 
 ---
 
